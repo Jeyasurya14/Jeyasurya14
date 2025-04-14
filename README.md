@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm JeyaSurya M! 🚀</h1>
+<h1 align="center">Hey, I'm JeyaSurya M! </h1>
 <p align="center">Full Stack Developer | IoT Enthusiast | AI & ML Explorer</p>
 
 ---
