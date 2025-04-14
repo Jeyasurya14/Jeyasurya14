@@ -48,14 +48,6 @@
 
 ---
 
-### ✨ GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyasurya14&theme=tokyonight" alt="JeyaSurya's Streak Stats" />
-</p>
-
----
-
 ### 📢 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
