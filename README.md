@@ -51,7 +51,7 @@
 ### ✨ GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="JeyaSurya's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyasurya14&theme=tokyonight" alt="JeyaSurya's Streak Stats" />
 </p>
 
 ---
