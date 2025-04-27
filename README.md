@@ -10,6 +10,7 @@
   - Advanced **IoT Projects**
   - A robust **Stock Prediction Portal** using Django & React
   - AI & ML Model Prototypes
+  - E-Learning Platform
 - ⚡ Experienced in building efficient APIs with Django.
 - 🧠 Fun Fact: I automate almost everything I touch.
 
