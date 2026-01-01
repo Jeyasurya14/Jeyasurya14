@@ -1,74 +1,121 @@
-<h1 align="center">Hey, I'm JeyaSurya M! </h1>
-<p align="center">Full Stack Developer | IoT Enthusiast | AI & ML Explorer</p>
+👋 Hi, I’m JeyaSurya M
 
----
+Full Stack Developer | AI & ML Engineer | IoT Enthusiast
+Building real-world, production-ready platforms with modern technologies.
 
-### 💡 About Me
+🚀 What I Do
 
-- 💻 Passionate about blending **Software + Hardware** to solve real-world problems.
-- 🔥 Currently working on:
-  - Advanced **IoT Projects**
-  - A robust **Stock Prediction Portal** using Django & React
-  - AI & ML Model Prototypes
-  - E-Learning Platform
-- ⚡ Experienced in building efficient APIs with Django.
-- 🧠 Fun Fact: I automate almost everything I touch.
+🧠 Build AI & Machine Learning systems with real-world datasets
 
----
+🌐 Develop full-stack web platforms using Django, React & Next.js
 
-### 🛠️ Tech Stack
+⚙️ Design scalable APIs & automation systems
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</p>
+🔗 Deploy and maintain live production applications
 
----
+I focus on clean architecture, scalability, and problem-solving.
 
-### 🌱 Exploring & Learning
+🧩 Live Projects & Repositories
+🟢 Newsletter Platform
 
-- Deep Learning & Model Optimization  
-- Blockchain Development  
-- High-Performance Backends with FastAPI
+Repo: newsletter_platform (Public)
 
----
+Tech: JavaScript
 
-### 📊 GitHub Stats
+🌐 Live: https://codex.learn-made.in
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeyasurya14&show_icons=true&theme=tokyonight" alt="JeyaSurya's GitHub stats" />
-</p>
+Production-ready newsletter platform for content delivery and audience growth.
 
----
+🟢 Lead Generator System
 
-### 📢 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=firefox"></a>
-</p>
+Repo: lead_generator (Public)
 
----
+Tech: JavaScript
 
-### ▶️ YouTube — LearnMade Academy
-<p align="center">
-  <a href="https://www.youtube.com/@learnmadeacademy">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCLrkOJKPxb0DYKTGuzDwxXQ?style=social" alt="YouTube Subscriber Count">
-  </a>
-</p>
+Automated lead generation system focused on conversions and scalability.
 
----
+🟢 Chennai House Price Prediction (ML)
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i> — Cory House</p>
+Repo: Chennai-house-price-prediction (Public)
+
+Tech: Python, Machine Learning
+
+Predicts Chennai house prices using locality, BHK, square footage & market trends.
+Includes data preprocessing, feature engineering, and model evaluation.
+
+🔒 Stock Prediction Portal (ML)
+
+Repo: stock-prediction-portal (Private)
+
+Tech: Python, Jupyter Notebook
+
+ML-based stock prediction system built using historical market data.
+
+🟢 Face Attendance System
+
+Repos: faceattendance, face-attendance-server
+
+Tech: JavaScript
+
+Face recognition–based attendance system with backend API architecture.
+
+🔒 LearnMade Internship Platform
+
+🌐 Live: https://learn-made.in
+
+Internship platform for real-world project-based learning.
+
+🟢 Live Coding Challenge Platform
+
+🌐 Live: https://challenge.learn-made.in
+
+Competitive coding challenge platform for developers and students.
+
+🔒 SkillUp Learning Platform
+
+🌐 Live: https://upskill.learn-made.in
+
+Structured learning platform with skill paths and hands-on practice.
+
+🟢 30 Days – 30 Projects
+
+🌐 Live: https://project.learn-made.in
+
+30 real-world projects built in 30 days to showcase consistency.
+
+🛠️ Tech Stack
+
+Languages
+
+Python | JavaScript | TypeScript | C | C++
+
+
+Frameworks & Libraries
+
+Django | FastAPI | Flask | React | Next.js
+Node.js | Express.js
+
+
+Databases & Tools
+
+MongoDB | MySQL | Docker | Git
+
+📊 GitHub Stats
+
+🌱 Currently Exploring
+
+Deep Learning & Model Optimization
+
+High-Performance Backends with FastAPI
+
+Blockchain Development
+
+Scalable SaaS Architectures
+
+📢 Connect With Me
+
+▶️ YouTube: LearnMade Academy
+Content on Programming | Full Stack | AI/ML | IoT
+
+“Code is like humor. When you have to explain it, it’s bad.”
+— Cory House
