@@ -1,110 +1,132 @@
-# 👋 Hi, I’m **JeyaSurya M**
+<div align="center">
 
-**Full Stack Developer | AI & ML Engineer | IoT Enthusiast**  
-Building **real-world, production-ready platforms** with modern technologies.
+# 👋 Hey, I'm JeyaSurya M
 
----
+**Gen AI Full Stack Engineer · Solo Founder · Final Year ECE Student**
 
-## 🚀 What I Do
-- 🧠 Build **AI & Machine Learning systems** with real-world datasets  
-- 🌐 Develop **full-stack web platforms** using Django, React & Next.js  
-- ⚙️ Design **scalable APIs & automation systems**  
-- 🔗 Deploy and maintain **live production applications**
+[![YouTube](https://img.shields.io/badge/LearnMade-@learnmade-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@learnmade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jeyasurya--m-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeyasurya-m-802293316)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jeyasurya.learnmade.in-000?style=flat&logo=vercel&logoColor=white)](https://jeyasurya.learnmade.in)
+[![GitHub](https://img.shields.io/badge/GitHub-Jeyasurya14-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jeyasurya14)
 
-> I focus on **clean architecture, scalability, and problem-solving**.
+*Building production-ready AI platforms for Tamil developers & beyond* 🇮🇳
 
----
-
-## 🧩 Live Projects & Repositories
-
-### 🟢 Newsletter Platform
-- **Repo:** `newsletter_platform` (Public)
-- **Tech:** JavaScript
-- 🌐 **Live:** https://codex.learn-made.in  
-> Production-ready newsletter platform for content delivery and audience growth.
+</div>
 
 ---
 
-### 🟢 Lead Generator System
-- **Repo:** `lead_generator` (Public)
-- **Tech:** JavaScript  
-> Automated lead generation system focused on conversions and scalability.
+## 🚀 What I Build
+
+I'm a **Gen AI Full Stack Engineer** focused on shipping real SaaS products, ML systems, and developer tooling — all documented live on my Tamil tech YouTube channel **[LearnMade](https://youtube.com/@learnmade)**.
+
+- 🧠 **AI/ML Systems** — LLMs, RAG pipelines, ensemble ML, real-time prediction engines
+- 🌐 **Full Stack SaaS** — Next.js 15 + FastAPI + Neon PostgreSQL + Redis + Qdrant
+- 🔗 **Developer Tooling** — API management, context layers, automation infrastructure
+- 📺 **Tamil Tech Education** — Live coding streams, AI tutorials, IPL analytics series
+- ⚙️ **IoT & Edge AI** — ESP32, Raspberry Pi, Ollama local inference
 
 ---
 
-### 🟢 Chennai House Price Prediction (ML)
-- **Repo:** `Chennai-house-price-prediction` (Public)
-- **Tech:** Python, Machine Learning  
-> Predicts Chennai house prices using locality, BHK, square footage & market trends.  
-Includes data preprocessing, feature engineering, and model evaluation.
+## 🧩 Active Projects
+
+### 🔷 ContextOS
+> AI cross-tool context layer — GitHub, Notion, Slack, VS Code in one unified intelligence layer
+
+`FastAPI` `Next.js 15` `Qdrant` `Redis` `Celery` `PostgreSQL` `Google OAuth`
 
 ---
 
-### 🔒 Stock Prediction Portal (ML)
-- **Repo:** `stock-prediction-portal` (Private)
-- **Tech:** Python, Jupyter Notebook  
-> ML-based stock prediction system built using historical market data.
+### 🔷 KeyForge
+> API key management SaaS with proxy routing, usage analytics & Razorpay revenue share
+
+`Next.js 15` `FastAPI` `Drizzle ORM` `Neon PostgreSQL` `Razorpay` `Turborepo`
 
 ---
 
-### 🟢 Face Attendance System
-- **Repos:** `faceattendance`, `face-attendance-server`
-- **Tech:** JavaScript  
-> Face recognition–based attendance system with backend API architecture.
+### 🔷 ScriptGen
+> AI script generation SaaS with a 4-stage pipeline and Thanglish (Tamil-English) support
+
+`Next.js 15` `FastAPI` `Multi-model LLM` `Razorpay` `Token Credits`
 
 ---
 
-### 🔒 LearnMade Internship Platform
-- 🌐 **Live:** https://learn-made.in  
-> Internship platform for real-world project-based learning.
+### 🔷 தரவு ஆட்டம் (Data Game) — IPL Analytics Series
+> YouTube series: ball-by-ball cricket analytics, match prediction & live win probability engine
+
+`Python` `XGBoost` `LightGBM` `LSTM` `Cricsheet` `FastAPI` `TimescaleDB` `WebSockets`
+
+🔗 [Watch on YouTube](https://youtube.com/@learnmade) · `#தரவுஆட்டம்`
 
 ---
 
-### 🟢 Live Coding Challenge Platform
-- 🌐 **Live:** https://challenge.learn-made.in  
-> Competitive coding challenge platform for developers and students.
+### 🔷 CogEdge *(ECE Final Year Project)*
+> ESP32-based emotion-aware speech processing with 6-class emotion classification
+
+`ESP32` `MFCC` `Python ML` `Edge AI`
 
 ---
 
-### 🔒 SkillUp Learning Platform
-- 🌐 **Live:** https://upskill.learn-made.in  
-> Structured learning platform with skill paths and hands-on practice.
+## 🌐 Live Platforms
 
----
-
-### 🟢 30 Days – 30 Projects
-- 🌐 **Live:** https://project.learn-made.in  
-> 30 real-world projects built in 30 days to showcase consistency.
+| Platform | URL | Stack |
+|---|---|---|
+| LearnMade Internship | [learnmade.in](https://learnmade.in) | Django + PostgreSQL |
+| 30 Days – 30 Projects | [project.learnmade.in](https://project.learnmade.in) | Next.js |
+| Coding Challenges | [challenge.learnmade.in](https://challenge.learnmade.in) | Next.js + FastAPI |
+| SkillUp Platform | [upskill.learnmade.in](https://upskill.learnmade.in) | Next.js |
+| Newsletter Platform | [codex.learnmade.in](https://codex.learnmade.in) | JavaScript |
+| Portfolio | [jeyasurya.learnmade.in](https://jeyasurya.learnmade.in) | Next.js |
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
-`Python` · `JavaScript` · `TypeScript` · `C` · `C++`
+**Languages**
+`Python` · `TypeScript` · `JavaScript` · `C` · `C++`
 
-**Frameworks & Libraries**  
-`Django` · `FastAPI` · `Flask` · `React` · `Next.js`  
-`Node.js` · `Express.js`
+**AI/ML**
+`LangChain` · `Ollama` · `XGBoost` · `LightGBM` · `LSTM` · `Qdrant` · `OpenAI API` · `xAI Grok`
 
-**Databases & Tools**  
-`MongoDB` · `MySQL` · `Docker` · `Git`
+**Frameworks**
+`Next.js 15` · `FastAPI` · `Django` · `Flask` · `React` · `Node.js` · `Express.js`
+
+**Databases & Infra**
+`Neon PostgreSQL` · `TimescaleDB` · `Redis` · `MongoDB` · `MySQL` · `Docker` · `Drizzle ORM` · `SQLAlchemy`
+
+**Payments & Auth**
+`Razorpay` · `Google OAuth` · `GitHub OAuth` · `TOTP 2FA`
+
+**Hardware & Edge**
+`ESP32` · `Raspberry Pi` · `Ollama (RTX 3060)` · `qwen2.5-coder`
 
 ---
 
-## 🌱 Currently Exploring
-- Deep Learning & Model Optimization  
-- High-Performance Backends with FastAPI  
-- Blockchain Development  
-- Scalable SaaS Architectures  
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jeyasurya14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyasurya14&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Working On
+
+- 📺 **தரவு ஆட்டம் Episode 3** — IPL 2025 live win probability engine
+- 🏗️ **IPL Prediction SaaS** — Full platform: pre-tournament trophy predictor + match predictor + live win probability
+- 🔐 **KeyForge v2** — Expanded API proxy marketplace
+- 🤖 **ContextOS v2** — Deeper VS Code & Notion integration
 
 ---
 
 ## 📢 Connect With Me
-▶️ **YouTube:** LearnMade Academy  
-Content on **Programming | Full Stack | AI/ML | IoT**
 
----
+<div align="center">
 
-> *“Code is like humor. When you have to explain it, it’s bad.”*  
-> — Cory House
+▶️ **[LearnMade YouTube](https://youtube.com/@learnmade)** — Tamil tech content: AI/ML, Full Stack, Live Coding, IPL Analytics
+
+*"Code is like humor. When you have to explain it, it's bad." — Cory House*
+
+</div>
