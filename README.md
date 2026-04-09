@@ -17,7 +17,7 @@
 
 ## 🚀 What I Build
 
-I'm a **Gen AI Full Stack Engineer** focused on shipping real SaaS products, ML systems, and developer tooling — all documented live on my Tamil tech YouTube channel **[LearnMade](https://youtube.com/@learnmade)**.
+I'm a **Gen AI Full Stack Engineer** focused on shipping real SaaS products, ML systems, and developer tooling — all documented live on my Tamil tech YouTube channel **[LearnMade](https://youtube.com/@learnmadeTamil)**.
 
 - 🧠 **AI/ML Systems** — LLMs, RAG pipelines, ensemble ML, real-time prediction engines
 - 🌐 **Full Stack SaaS** — Next.js 15 + FastAPI + Neon PostgreSQL + Redis + Qdrant
