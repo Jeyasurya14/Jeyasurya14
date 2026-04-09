@@ -37,6 +37,7 @@ surya = {
     "stack":    ["Next.js 15", "FastAPI", "Qdrant", "Redis", "LLMs", "ESP32"],
     "focus":    ["SaaS Products", "ML Systems", "Live Coding", "IPL Analytics"],
     "local_ai": "Ollama + qwen2.5-coder on RTX 3060",
+    "clients":  ["US Client — msscorp (www.msccorp.co)"],
     "mission":  "Making AI/ML accessible to Tamil developers 🇮🇳"
 }
 ```
@@ -78,10 +79,13 @@ surya = {
 ### ✍️ ScriptGen
 > AI script generation SaaS — 4-stage pipeline with native Thanglish (Tamil-English) support
 
+🌐 [scriptgen.learnmade.in](https://scriptgen.learnmade.in)
+
 ![LLM](https://img.shields.io/badge/Multi--model_LLM-8B5CF6?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -126,11 +130,24 @@ surya = {
 
 ---
 
+## 💼 Client Work
+
+### 🌐 MSSCorp *(US Client)*
+> Full-stack web platform built and deployed for a US-based client — production live at [msscorp.co](https://www.msscorp.co)
+
+![GitHub](https://img.shields.io/badge/Jeyasurya14/msscorp-181717?style=flat-square&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live_in_Production-2E7D32?style=flat-square)
+![Client](https://img.shields.io/badge/Client-US_Based-3178C6?style=flat-square)
+
+---
+
 ## 🌐 Live Platforms
 
 | 🟢 Platform | 🔗 URL | ⚙️ Stack |
 |:---|:---|:---|
-| LearnMade Internship | [learnmade.in](https://learnmade.in) | Django · PostgreSQL |
+| LearnMade Internship | [learnmade.in](https://learnmade.in) | Django · PostgreSQL · Next.js |
+| ScriptGen SaaS | [scriptgen.learnmade.in](https://scriptgen.learnmade.in) | Next.js · FastAPI · LLM |
+| MSSCorp *(Client)* | [msscorp.co](https://www.msscorp.co) | Full Stack · Production |
 | 30 Days – 30 Projects | [project.learnmade.in](https://project.learnmade.in) | Next.js |
 | Coding Challenges | [challenge.learnmade.in](https://challenge.learnmade.in) | Next.js · FastAPI |
 | SkillUp Platform | [upskill.learnmade.in](https://upskill.learnmade.in) | Next.js |
