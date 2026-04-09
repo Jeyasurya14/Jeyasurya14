@@ -4,7 +4,7 @@
 
 **Gen AI Full Stack Engineer · Solo Founder · Final Year ECE Student**
 
-[![YouTube](https://img.shields.io/badge/LearnMade-@learnmade-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@learnmade)
+[![YouTube](https://img.shields.io/badge/LearnMade-@learnmade-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@learnmadeTamil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeyasurya--m-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeyasurya-m-802293316)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jeyasurya.learnmade.in-000?style=flat&logo=vercel&logoColor=white)](https://jeyasurya.learnmade.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Jeyasurya14-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jeyasurya14)
